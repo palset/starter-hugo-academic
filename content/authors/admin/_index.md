@@ -69,6 +69,5 @@ highlight_name: true
 ---
 
 
-Hey! I'm Palash, Data Scientist at Reliance Jio. I have lately been involved in research in various fields such as Genomics and Molecular Modeling. 
+Hey! I'm Palash, Data Scientist at Reliance Jio. As a part of the Machine Learning Research Team at Jio, I collaborate with Domain Experts ranging from Life Sciences to Molecular Modelling to solve their Data Science problems.
 
-#{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
