@@ -11,29 +11,27 @@ role: Data Scientist
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Reliance Jio, India
-  url: https://www.stanford.edu/
+  url: https://en.wikipedia.org/wiki/Jio_Platforms
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Fascinated by Data Science, Biology and Molecules
 
 # Interests to show in About widget
 interests:
+- Sequence-Structure-Function relationships in proteins
+- Protein Design
+- Genome Wide Association Studies
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: M.Sc.(Hons.) Biological Sciences
+    institution: BITS-Pilani, Pilani, India
+    year: 2019
+  - course: B.E.(Hons.) Electronics and Instrumentation Engineering
+    institution: BITS-Pilani, Pilani, India
+    year: 2019
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
