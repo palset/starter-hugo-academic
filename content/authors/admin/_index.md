@@ -19,7 +19,7 @@ bio: Fascinated by Data Science, Biology and Molecules
 # Interests to show in About widget
 interests:
 - Sequence-Structure-Function relationships in proteins
-- Protein Design
+- Protein design and functional optimization
 - Genome Wide Association Studies
 - Artificial Intelligence
 
