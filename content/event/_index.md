@@ -1,5 +1,5 @@
 ---
-title: Recent & Upcoming Talks
+title: Patents
 cms_exclude: true
 
 # View.
