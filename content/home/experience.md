@@ -30,11 +30,11 @@ experience:
     date_start: '2019-07-08'
     date_end: ''
     description: |2-
-        Responsibilities include:
+        Worked on:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Co-Occurrence Based Genome Wide Association Study (CO-GWAS) System
+        * Rapid Digital Twin for Crude Oil Refineries
+        * Complexity Based Sampling from Black Box models
         
   - title: Project Assistant
     company: Indian Institute of Science
@@ -43,7 +43,7 @@ experience:
     location: Bangalore, India
     date_start: '2018-06-01'
     date_end: '2018-12-01'
-    description: Taught electronic engineering and researched semiconductor physics.
+    description: Vehicular Traffic Parameters Estimation
 
 design:
   columns: '2'
