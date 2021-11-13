@@ -15,7 +15,7 @@ image:
   caption: Mathematical description of COGWAS score
 
 
-url_pdf: https://genomebiology.biomedcentral.com/track/pdf/10.1186/s13059-021-02378-z.pdf
+url_pdf: https://github.com/palset/starter-hugo-academic/blob/master/content/publication/COGWAS/v2_Patent%201%20-%20First%20order%20nucleotide%20importance%20for%20a%20phenotype.pdf
 summary: ""
 date: 2021-11-13T09:35:35.517Z
 ---
