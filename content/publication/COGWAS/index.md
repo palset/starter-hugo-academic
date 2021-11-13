@@ -19,7 +19,7 @@ The tool provides a novel methodology and system for Genome Wide Association Stu
 
 1) Generate novel causal hypothesis regarding biological pathways that affect physical trait of the organism.
 
-2) Results of GWAS can be used to predict an individual’s biological proclivity towards certain diseases through their gene sequence. For example, this can be used to predict future diseases that a new born child might have.
+2) Results of GWAS can be used to predict an individual’s biological proclivity towards certain diseases through their gene sequence. For example, this can be used to predict future diseases that a new born child might have.
 
 3) Genes which have a considerable effect on phenotype can be used to engineer crops with desired properties.
 
