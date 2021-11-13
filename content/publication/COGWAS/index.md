@@ -10,8 +10,9 @@ authors:
 abstract: ""
 image:
   filename: screenshot-2021-11-13-at-3.19.43-pm-min.png
-  preview_only: true
-  focal_point: SMART
+  preview_only: false
+  focal_point: ""
+  caption: Mathematical description of COGWAS score
 summary: ""
 date: 2021-11-13T09:35:35.517Z
 ---
