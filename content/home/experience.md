@@ -23,10 +23,10 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Data Scientist
-    company: Reliance Jio, India
+    company: Reliance Jio, AI Centre of Excellence
     company_url: ''
     company_logo: Jio_logo
-    location: Hyderabad
+    location: Hyderabad, India
     date_start: '2019-07-08'
     date_end: ''
     description: |2-
@@ -40,9 +40,9 @@ experience:
     company: Indian Institute of Science
     company_url: ''
     company_logo: IISc
-    location: Bangalore
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
+    location: Bangalore, India
+    date_start: '2018-06-01'
+    date_end: '2018-12-01'
     description: Taught electronic engineering and researched semiconductor physics.
 
 design:
