@@ -25,7 +25,7 @@ experience:
   - title: Data Scientist
     company: Reliance Jio, India
     company_url: ''
-    company_logo: jio-logo
+    company_logo: jio-logo.png
     location: Hyderabad
     date_start: '2019-07-08'
     date_end: ''
