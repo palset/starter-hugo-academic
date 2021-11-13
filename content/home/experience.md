@@ -30,8 +30,7 @@ experience:
     date_start: '2019-07-08'
     date_end: ''
     description: |2-
-        Worked on:
-        
+   
         * Co-Occurrence Based Genome Wide Association Study (CO-GWAS) System
         * Rapid Digital Twin for Crude Oil Refineries
         * Complexity Based Sampling from Black Box models
@@ -44,10 +43,21 @@ experience:
     date_start: '2017-05-01'
     date_end: ''
     description: |2-
-        Worked on:
         
-        * Prediction of DNA and RNA binding proteins from sequence
-        * Compression Tool for Gene Sequence
+        * Prediction of DNA and RNA binding proteins from protein sequences
+        * Compression tool for gene sequences
+
+  - title: Master's Thesis Student
+    company: Department of Biological Sciences, BITS-Pilani
+    company_url: ''
+    company_logo: BITS_Pilani-Logo
+    location: Pilani, India
+    date_start: '2019-01-01'
+    date_end: ''
+    description: |2-
+        
+        * Prediction of CRISPR regulated self-target genes in Salmonella Typhimurium
+        * Mass Spectrometry (MS) data analysis using Persues and MaxQuant.
         
   - title: Project Assistant
     company: Indian Institute of Science
