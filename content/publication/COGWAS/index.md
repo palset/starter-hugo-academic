@@ -10,6 +10,7 @@ authors:
 abstract: ""
 image:
   filename: screenshot-2021-11-13-at-3.19.43-pm.png
+  preview_only: true
 summary: ""
 date: 2021-11-13T09:35:35.517Z
 ---
