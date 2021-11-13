@@ -10,6 +10,7 @@ headless: true
 weight: 80
 
 title: Featured Publications
+active: false
 subtitle: ""
 
 content:
