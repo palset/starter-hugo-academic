@@ -13,12 +13,9 @@ image:
   preview_only: false
   focal_point: LEFT
   caption: Mathematical description of COGWAS score
-links:
-- name: Full
-  url: https://doi.org/10.1186/s13059-021-02378-z
+
 
 url_pdf: https://genomebiology.biomedcentral.com/track/pdf/10.1186/s13059-021-02378-z.pdf
-url_code: https://roy-lab.github.io/grinch/
 summary: ""
 date: 2021-11-13T09:35:35.517Z
 ---
