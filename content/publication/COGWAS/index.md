@@ -9,8 +9,9 @@ authors:
   - Shailesh Kumar
 abstract: ""
 image:
-  filename: screenshot-2021-11-13-at-3.19.43-pm.png
+  filename: screenshot-2021-11-13-at-3.19.43-pm-min.png
   preview_only: true
+  focal_point: SMART
 summary: ""
 date: 2021-11-13T09:35:35.517Z
 ---
@@ -26,7 +27,7 @@ The tool provides a novel methodology and system for Genome Wide Association Stu
 
 This tool maps genotype to phenotype, by taking VCF files as input. The tool then transforms the VCF file into a suitable format for generating the probability with which each position in the genome affects the target phenotype
 
- Claims:
+Claims:
 
 The core problem which GWAS addresses is that gene sequence is very large and it is not clear which part of the gene or which alleles in the gene are responsible for which phenotype. The solution for this problem involves reducing the number of ‘candidate alleles’ which have a correlation with the phenotype. In prior-art, p-value is used as a metric to shortlist a set of causal genes that affect phenotype. In our system, we present the following claims:
 
