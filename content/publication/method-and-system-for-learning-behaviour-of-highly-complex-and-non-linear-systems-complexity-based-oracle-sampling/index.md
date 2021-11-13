@@ -12,7 +12,7 @@ featured: false
 image:
   filename: featured.png
   focal_point: Smart
-  preview_only: true
+  preview_only: false
 date: 2021-11-13T13:06:01.206Z
 ---
 Non-Linear Complex simulations of physical systems using the laws of physics such as thermodynamics, chemical reactions, differential equations etc. are simulated to solve for a given input. These simulations are time-taking and are unfeasible to run multiple times for the entire operational range in business situations. Using Linear Approximation of the complex simulations helps in faster results generation with acceptable errors, it is less accurate but quick to do and works only far a small range of input domain. Neural Networks once trained enough can approximate these input-output mapping better than Linear Approximations and can give simulation results faster than traditional simulation algorithms.
