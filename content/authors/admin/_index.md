@@ -69,5 +69,5 @@ highlight_name: true
 ---
 
 
-Hey! I'm Palash, Data Scientist at Reliance Jio. As a part of the Machine Learning Research Team at Jio, I collaborate with Domain Experts ranging from Life Sciences to Molecular Modelling to solve their Data Science problems. Apart from my job, I also work with Dr. Shandar Ahmad at SciWhy lab, JNU, India and Dr. Sandhya MArathe at BITS-Pilani, India
+Hey! I'm Palash, Data Scientist at Reliance Jio. As a part of the Machine Learning Research Team at Jio, I collaborate with Domain Experts ranging from Life Sciences to Molecular Modelling to solve their Data Science problems. Apart from my job, I also work with Dr. Shandar Ahmad at SciWhy lab, JNU, India and Dr. Sandhya Marathe at BITS-Pilani, India
 
