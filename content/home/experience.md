@@ -26,7 +26,7 @@ experience:
     company: Reliance Jio, India
     company_url: ''
     company_logo: jio-logo
-    location: California
+    location: Hyderabad
     date_start: '2019-07-08'
     date_end: ''
     description: |2-
