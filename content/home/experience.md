@@ -35,6 +35,19 @@ experience:
         * Co-Occurrence Based Genome Wide Association Study (CO-GWAS) System
         * Rapid Digital Twin for Crude Oil Refineries
         * Complexity Based Sampling from Black Box models
+
+  - title: Research Intern
+    company: SciWhy Lab, School of Computational and Integrative Sciences, JNU
+    company_url: ''
+    company_logo: JNU_logo
+    location: New Delhi, India
+    date_start: '2017-05-01'
+    date_end: ''
+    description: |2-
+        Worked on:
+        
+        * Prediction of DNA and RNA binding proteins from sequence
+        * Compression Tool for Gene Sequence
         
   - title: Project Assistant
     company: Indian Institute of Science
