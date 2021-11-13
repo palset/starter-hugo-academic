@@ -66,7 +66,10 @@ experience:
     location: Bangalore, India
     date_start: '2018-06-01'
     date_end: '2018-12-01'
-    description: Vehicular Traffic Parameters Estimation
+    description:  |2-
+    
+        * Vehicular Traffic Parameters Estimation
+        * Manual data labelling, negotiating with stakeholders for GPU systems, getting cameras fixed on roads, training YOLO models for object detection
 
 design:
   columns: '2'
