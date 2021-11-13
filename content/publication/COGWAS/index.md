@@ -9,7 +9,7 @@ authors:
   - Shailesh Kumar
 abstract: ""
 image:
-  filename: screenshot-2021-11-13-at-3.19.43-pm-min.png
+  filename: featured.png
   preview_only: false
   focal_point: LEFT
   caption: Mathematical description of COGWAS score
