@@ -5,6 +5,7 @@ date: 2021-11-13T14:27:23.102Z
 summary: ""
 draft: false
 featured: false
+weight: 3
 image:
   filename: featured.png
   focal_point: Smart
