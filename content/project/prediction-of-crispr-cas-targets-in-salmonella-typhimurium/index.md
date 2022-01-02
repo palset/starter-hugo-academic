@@ -3,6 +3,7 @@ title: Prediction of CRISPR-Cas Targets in Salmonella Typhimurium
 date: 2021-11-13T14:40:57.409Z
 draft: false
 featured: false
+weight: 1
 image:
   filename: featured.png
   focal_point: Smart
