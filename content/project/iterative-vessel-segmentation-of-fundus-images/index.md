@@ -3,6 +3,7 @@ title: Iterative Vessel Segmentation of Fundus Images
 date: 2021-11-13T14:55:56.425Z
 draft: false
 featured: false
+weight: 4
 image:
   filename: featured.png
   focal_point: Smart
