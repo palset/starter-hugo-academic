@@ -80,6 +80,11 @@ highlight_languages:
 math: false
 diagram: false
 privacy_pack: false
+content:
+  form:
+    provider: netlify
+    netlify:
+      captcha: true
 edit_page:
   repo_url: ''
   content_dir: ''
