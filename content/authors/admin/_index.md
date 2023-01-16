@@ -28,7 +28,6 @@ education:
   courses:
   - course: Ph.D. Computational Biology
     institution: University of Florida, Gainesville
-    year: 2019
   - course: M.Sc.(Hons.) Biological Sciences
     institution: BITS-Pilani, Pilani, India
     year: 2019
