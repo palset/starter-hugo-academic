@@ -28,7 +28,7 @@ experience:
     company_logo: Jio_logo
     location: Hyderabad, India
     date_start: '2019-07-08'
-    date_end: ''
+    date_end: '2022-07-08'
     description: |2-
    
         * Co-Occurrence Based Genome Wide Association Study (CO-GWAS) System
