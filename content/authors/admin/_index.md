@@ -6,15 +6,15 @@ title: Palash Sethi
 superuser: true
 
 # Role/position/tagline
-role: Data Scientist
+role: Ph.D student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Reliance Jio, India
-  url: https://en.wikipedia.org/wiki/Jio_Platforms
+- name: University of Florida
+  url: https://biology.ufl.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Fascinated by Data Science, Biology and Molecules
+bio: Fascinated by Biology, Molecules and Data Science
 
 # Interests to show in About widget
 interests:
@@ -26,6 +26,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
+  - course: Ph.D. Computational Biology
+    institution: University of Florida, Gainesville
+    year: 2019
   - course: M.Sc.(Hons.) Biological Sciences
     institution: BITS-Pilani, Pilani, India
     year: 2019
@@ -69,5 +72,5 @@ highlight_name: true
 ---
 
 
-Hey! I'm Palash, Data Scientist at Reliance Jio. As a part of the Machine Learning Research Team at Jio, I collaborate with Domain Experts ranging from Life Sciences to Molecular Modelling to solve their Data Science problems. Apart from my job, I also work with Dr. Shandar Ahmad at SciWhy lab, JNU, India and Dr. Sandhya Marathe at BITS-Pilani, India
+Hey! I'm Palash, as a Ph.D. student at the University of Florida, I am currently researching the application of machine learning in protein design. I have previous experience working as a part of the Machine Learning Research Team at Reliance Jio, India, where I collaborated with domain experts from various fields such as life sciences and molecular modeling to solve data science problems. My interests include optimization techniques, visualization, design, Gaussian processes, and bioinformatics.
 
